@@ -18,6 +18,10 @@ ILI9163C extension for HyperDisplay. This library is a mid-level interface betwe
 
 Install this folder as an Arduino library (Sketch → Include Library → Add .ZIP Library, or copy into `libraries/SparkFun_HyperDisplay_ILI9163C`). Open any `examples/*.ino` from the Arduino IDE.
 
+## Requirements
+
+- Arduino IDE
+
 ## Attribution and provenance
 
 - **Original author / maintainer:** SparkFun Electronics <techsupport@sparkfun.com>
