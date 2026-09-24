@@ -1,6 +1,6 @@
 # SparkFun_HyperDisplay_ILI9163C
 
-ILI9163C extension for HyperDisplay. This library is a mid-level interface between displays that use an ILI9163 driver and the HyperDisplay library. Provided is an interface-independent layer that can be used to implement specific devices as well as the following preconfigured interfaces: 4-wire SPI Original author: SparkFun Electronics <techsupport@sparkfun.com>. This is Dave Robinson's working copy from the Arduino `libraries` tree. Version recorded in `library.properties`: 1.0.2. Upstream: <https://github.com/sparkfun/HyperDisplay_ILI9163C_ArduinoLibrary>.
+ILI9163C extension for HyperDisplay. This library is a mid-level interface between displays that use an ILI9163 driver and the HyperDisplay library. Provided is an interface-independent layer that can be used to implement specific devices as well as the following preconfigured interfaces: 4-wire SPI Original author: SparkFun Electronics <techsupport@sparkfun.com>. This is my working copy from the Arduino `libraries` tree. Version recorded in `library.properties`: 1.0.2. Upstream: <https://github.com/sparkfun/HyperDisplay_ILI9163C_ArduinoLibrary>.
 
 **Source last updated:** 2019-05-07  
 **Language:** C++ / Arduino  
@@ -29,7 +29,7 @@ Install this folder as an Arduino library (Sketch → Include Library → Add .Z
 - **Version:** 1.0.2
 - **Upstream URL:** <https://github.com/sparkfun/HyperDisplay_ILI9163C_ArduinoLibrary>
 - **Category:** Display
-- This repository is Dave Robinson's working copy for catalogue/reference; authorship stays with the original authors.
+- This repository is my working copy for catalogue/reference; authorship stays with the original authors.
 
 ## License
 
